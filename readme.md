@@ -2,7 +2,7 @@
 
 ### **VIDEO TUTORIALS AND CHATBOT TO ASSIST TEACHERS REGARDING ONLINE CLASSES**
 
-Link to Website: [Teacher's Guide](https://ashi-sharma.github.io/Chatbot/)
+Link to Website: [Teacher's Guide](https://adi-rai.github.io/Teachers-Guide/teams.html)
 
 
 **WHY THIS?**
@@ -12,7 +12,7 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 **WORKING OF CHATBOT:**
 
-- Assisting how to take classes,
+- Assisting how to take classes(using droidcam),
 
 - how to generate link, sending link to students via mail or whatsapp,
 
@@ -26,6 +26,7 @@ In this period of COVID teachers especially those who are not usual to the onlin
 
 - how to take tests and assignments using meet and google forms and other free platforms. 
 
+- various GIFs are added to demonstrate actions.
 
 **FUTURE WORK:**
 
@@ -42,13 +43,10 @@ WebD & Dialogflow
 
 **PROJECT BY:**
 
+ADITYA RAI
+
 ASHI SHARMA
 
 TANMAY RAICHANDANI
 
 VEDANT GUPTA
-
-
-**MENTOR:**
-
-DEVANSH DUA
