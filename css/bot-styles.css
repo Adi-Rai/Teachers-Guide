@@ -1,0 +1,73 @@
+
+iframe{
+  display: inline;
+  border-style: solid ;
+  border-width: 5px;
+  border-color: red;
+  position:relative;
+  right:120px;
+}
+body{
+  text-align: center;
+  background-color: #dff6f0;s
+}
+
+p{
+  margin:2%;
+}
+
+a{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin:10px 20px;
+}
+
+.robot{
+  position: relative;
+  display: inline;
+  bottom:450px;
+  right:220px;
+  max-width:15%;
+}
+
+.robot1{
+  position: absolute;
+  max-width:15%;
+  bottom: 375px;
+  left:1200px;
+}
+
+.jarvis{
+  color:blue;
+  text-align:center;
+  margin-top:30px;
+  font-family:"Red Rose";
+  font-weight: bold;
+  color:#fa26a0;
+}
+
+@media (max-width:1350px)
+{
+
+  .robot{
+    display: none;
+  }
+  .robot1{
+    display: none;
+  }
+}
+@media (max-width:950px){
+  iframe{
+
+    width:500px;
+    height:400px;
+  }
+}
+
+@media (max-width:750px){
+  iframe{
+    width:400px;
+    height:400px;
+  }
+}

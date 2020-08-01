@@ -1,0 +1,225 @@
+iframe{
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
+  display:block;
+  margin:0 auto 5%;
+  width:1020px;
+  height:600px;
+  background: url('file:///C:/Users/Aditya/Desktop/Chatbot-master/Chatbot-master/images/path.png');
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  display:block;
+}
+
+ul{
+  margin-left:0;
+}
+
+body{
+  text-align: center;
+  margin-bottom: 0;
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+a{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+h1,h2,h3{
+  color:#7fdbda;
+  font-family: 'Ubuntu';
+}
+/* navbar */
+.navbar{
+  height:84.8px;
+}
+
+/* video */
+.title{
+  padding-top: 7%;
+  padding-bottom: 2.5%;
+  color:red;
+
+}
+#video{
+  padding-bottom: 2%;
+  background-color: #dff6f0;
+  margin-bottom: 1%;
+}
+/* platforms */
+#platforms{
+  margin-bottom: 10%;
+  padding:2% 0 20%;
+  background-color:  #fff;
+}
+
+.platforms{
+  padding:2%;
+  font-size:2.5rem;
+}
+
+.platforms-title{
+  color:#5cb85c;
+}
+
+.english-hindi{
+  padding: 2% 10% 2% 0%;
+  font-size: 2rem;
+}
+
+/* Buttons */
+.btn{
+  text-align: center;
+  font-family:"Montserrat";
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+/* Google Meet */
+.meet{
+  max-width:10%;
+  height:125px;
+  position: absolute;
+  top:1160px;
+  left:150px;
+}
+
+.meet-heading{
+  position: absolute;
+  top:1150px;
+  left:347px;
+}
+.english-meet{
+  position:absolute;
+  top:1190px;
+  left:300px;
+}
+
+.hindi-meet{
+  position: absolute;
+  top:1190px;
+  left:470px;
+}
+
+
+/* Zoom and Meet */
+.meet-zoom{
+  text-align: center;
+}
+
+/* zoom */
+.zoom{
+position: absolute;
+ left:850px;
+ top:1150px;
+ max-width:11%;
+ height:140px;
+}
+
+.zoom-heading{
+  position: absolute;
+  top:1150px;
+  left:1120px;
+}
+.english-zoom{
+  position: absolute;
+  top:1190px;
+  left:1000px;
+}
+
+.hindi-zoom{
+  position: absolute;
+  top:1190px;
+  left:1170px;
+}
+/* Teams */
+.teams{
+  position:absolute;
+  max-width:10%;
+  top:1400px;
+  left:150px;
+}
+.english-teams{
+  position: absolute;
+  top:1440px;
+  left: 300px;
+}
+
+.hindi-teams{
+  position: absolute;
+  top: 1440px;
+  left:470px;
+}
+
+.teams-heading{
+  position: absolute;
+  top:1400px;
+  left:330px;
+}
+
+/* Classroom */
+.classroom{
+  position: absolute;
+  height:115px;
+  max-width: 10%;
+  top:1407px;
+  left: 850px;
+}
+
+.english-classroom{
+  position: absolute;
+  top: 1440px;
+  left:1000px;
+}
+
+.hindi-classroom{
+  position:absolute;
+  top: 1440px;
+  left:1170px;
+}
+
+.classroom-heading{
+  position: absolute;
+  left:1020px;
+  top:1400px;
+}
+/* Teams and Classroom */
+.teams-classroom{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+/* Footer */
+#footer{
+  background-color: #5cb85c;
+  padding: 50px 0px 0px;
+  position: absolute;
+  top:1720px;
+  left:0px;
+}
+.tagline{
+  font-size:2rem;
+  color:#fff;
+  padding:1 2 1%;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75em;
+  padding: 10px 10px 0;
+}
