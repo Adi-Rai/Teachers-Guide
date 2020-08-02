@@ -1,0 +1,121 @@
+iframe{
+  border-style: solid;
+  border-width: 5px;
+  border-color: #dff6f0;
+  display:block;
+  margin:0 auto 3%;
+  width:650px;
+  height:400px;
+  background-image: url("path.png");
+  background-size: 200px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  display:block;
+}
+
+body{
+  text-align: center;
+  margin-bottom: 0;
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  margin-bottom: 0;
+}
+
+a{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+h1,h2,h3{
+  font-family: 'Ubuntu';
+}
+/* navbar */
+.navbar{
+  height:84.8px;
+}
+
+/* video */
+.title{
+  padding-top: 4%;
+  padding-bottom: 2.5%;
+  color:red;
+}
+#video{
+  background-color: #dff6f0;
+}
+/* platforms */
+
+.colorless{
+  background-color:#fff;
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+
+.colored{
+  background-color:#dff6f0;
+  padding-top: 3%;
+  padding-bottom: 6%;
+}
+
+
+/* Buttons */
+.btn{
+  text-align: center;
+  font-family:"Montserrat";
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.meet-buttons-1, .meet-buttons-2, .zoom-buttons-1, .zoom-buttons-2, .classroom-buttons-1, .classroom-buttons-2{
+  padding-left:450px;
+}
+
+/* Google Meet */
+.meet-heading{
+  font-size: 3rem;
+  color:#5cb85c;
+  padding-bottom: 1.5%;
+}
+/* zoom */
+.zoom-heading{
+font-size: 3rem;
+color:#7c6fff;
+padding-bottom: 1.5%;
+}
+/* Team */
+
+/* Classroom */
+.classroom-heading{
+font-size: 3rem;
+color:#5cb85c;
+padding-bottom: 1.5%;
+}
+
+/* Footer */
+#footer{
+  background-color: #5cb85c;
+  padding: 50px 0px 0px;
+
+}
+.tagline{
+  font-size:2rem;
+  color:#fff;
+  padding:1 2 1%;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75em;
+  padding: 10px 10px 0;
+}
