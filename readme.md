@@ -2,7 +2,7 @@
 
 ### **VIDEO TUTORIALS AND CHATBOT TO ASSIST TEACHERS REGARDING ONLINE CLASSES**
 
-Link to Website: [Teacher's Guide](https://adi-rai.github.io/Teachers-Guide/teams.html)
+Link to Website: [Teacher's Guide](https://adi-rai.github.io/Teachers-Guide/index.html)
 
 
 **WHY THIS?**
