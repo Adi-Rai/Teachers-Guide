@@ -150,23 +150,44 @@ h1,h2,h3{
 }
 
 /* Media Query */
-
-
-@media (max-width:1250px){
+@media (max-width:2560px){
   .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
-    padding-left:300px;
+    padding-left:800px;
+  }
+
+  .platform{
+    position: relative;
+    right:20px;
+  }
+}
+
+
+@media (max-width:1440px){
+  .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
+    padding-left:400px;
   }
 
   .platform{
     position: relative;
     right:50px;
   }
+}
+
+@media (max-width:1024px){
+  .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
+    padding-left:300px;
+  }
+
+  .platform{
+    position: relative;
+    left:10px;
+  }
 
 }
 
 @media (max-width:1000px){
   .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
-    padding-left:0;
+    padding-left:65px;
   }
 
   .platform{
