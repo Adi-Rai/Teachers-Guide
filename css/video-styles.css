@@ -159,6 +159,7 @@ h1,h2,h3{
     position: relative;
     right:20px;
   }
+
 }
 
 
@@ -170,6 +171,11 @@ h1,h2,h3{
   .platform{
     position: relative;
     right:50px;
+  }
+
+  iframe{
+    width:900px;
+    height:550px;
   }
 }
 
@@ -183,6 +189,10 @@ h1,h2,h3{
     left:10px;
   }
 
+  iframe{
+    width:700px;
+    height:450px;
+  }
 }
 
 @media (max-width:1000px){
@@ -193,6 +203,11 @@ h1,h2,h3{
   .platform{
     position: relative;
     left:10px;
+  }
+
+  iframe{
+    width:600px;
+    height:350px;
   }
 
 }
