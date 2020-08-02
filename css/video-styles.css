@@ -197,7 +197,7 @@ h1,h2,h3{
 
 @media (max-width:1000px){
   .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
-    padding-left:65px;
+    padding-left:15px;
   }
 
   .platform{
