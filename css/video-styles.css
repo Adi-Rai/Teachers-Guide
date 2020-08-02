@@ -150,16 +150,28 @@ h1,h2,h3{
 }
 
 /* Media Query */
+
+
 @media (max-width:1250px){
   .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
     padding-left:300px;
   }
 
+  .platform{
+    position: relative;
+    right:50px;
+  }
+
 }
 
 @media (max-width:1000px){
-  .meet-buttons-1, .meet-buttons-2, .zoom-buttons-1, .zoom-buttons-2, .classroom-buttons-1, .classroom-buttons-2{
+  .meet-buttons-1, .zoom-buttons-1, .classroom-buttons-1, .teams-buttons-1{
     padding-left:0;
+  }
+
+  .platform{
+    position: relative;
+    left:10px;
   }
 
 }
