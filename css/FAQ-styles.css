@@ -119,3 +119,18 @@ padding-bottom: 1.5%;
   font-size: 0.75em;
   padding: 10px 10px 0;
 }
+
+/* Media Query */
+@media (max-width:1250px){
+  .meet-buttons-1, .meet-buttons-2, .zoom-buttons-1, .zoom-buttons-2, .classroom-buttons-1, .classroom-buttons-2{
+    padding-left:300px;
+  }
+
+}
+
+@media (max-width:1000px){
+  .meet-buttons-1, .meet-buttons-2, .zoom-buttons-1, .zoom-buttons-2, .classroom-buttons-1, .classroom-buttons-2{
+    padding-left:0;
+  }
+
+}
